@@ -1,0 +1,14 @@
+C:\Users\Proline\source\repos\ISBN\ISBN\bin\Debug\netcoreapp3.1\ISBN.exe
+C:\Users\Proline\source\repos\ISBN\ISBN\bin\Debug\netcoreapp3.1\ISBN.deps.json
+C:\Users\Proline\source\repos\ISBN\ISBN\bin\Debug\netcoreapp3.1\ISBN.runtimeconfig.json
+C:\Users\Proline\source\repos\ISBN\ISBN\bin\Debug\netcoreapp3.1\ISBN.runtimeconfig.dev.json
+C:\Users\Proline\source\repos\ISBN\ISBN\bin\Debug\netcoreapp3.1\ISBN.dll
+C:\Users\Proline\source\repos\ISBN\ISBN\bin\Debug\netcoreapp3.1\ISBN.pdb
+C:\Users\Proline\source\repos\ISBN\ISBN\obj\Debug\netcoreapp3.1\ISBN.csproj.AssemblyReference.cache
+C:\Users\Proline\source\repos\ISBN\ISBN\obj\Debug\netcoreapp3.1\ISBN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Proline\source\repos\ISBN\ISBN\obj\Debug\netcoreapp3.1\ISBN.AssemblyInfoInputs.cache
+C:\Users\Proline\source\repos\ISBN\ISBN\obj\Debug\netcoreapp3.1\ISBN.AssemblyInfo.cs
+C:\Users\Proline\source\repos\ISBN\ISBN\obj\Debug\netcoreapp3.1\ISBN.csproj.CoreCompileInputs.cache
+C:\Users\Proline\source\repos\ISBN\ISBN\obj\Debug\netcoreapp3.1\ISBN.dll
+C:\Users\Proline\source\repos\ISBN\ISBN\obj\Debug\netcoreapp3.1\ISBN.pdb
+C:\Users\Proline\source\repos\ISBN\ISBN\obj\Debug\netcoreapp3.1\ISBN.genruntimeconfig.cache
